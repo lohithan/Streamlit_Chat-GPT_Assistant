@@ -1,0 +1,14 @@
+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
+
+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(gpt4)
+
+
+cd venv
+
+cd Scripts
+
+Activate
+
+cd..
+
+cd..
